@@ -1,0 +1,218 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+#articles	app/assets/stylesheets/screen.css	/^#articles$/;"	i
+#articles .actions	app/assets/stylesheets/screen.css	/^#articles .actions$/;"	c
+#articles .actions a	app/assets/stylesheets/screen.css	/^#articles .actions a$/;"	s
+#articles .actions a:hover	app/assets/stylesheets/screen.css	/^#articles .actions a:hover$/;"	s
+#articles .tag_list	app/assets/stylesheets/screen.css	/^#articles .tag_list$/;"	c
+#articles li	app/assets/stylesheets/screen.css	/^#articles li$/;"	s
+#articles li > a:first-child	app/assets/stylesheets/screen.css	/^#articles li > a:first-child$/;"	s
+#articles li:last-child	app/assets/stylesheets/screen.css	/^#articles li:last-child$/;"	s
+#sidebar	app/assets/stylesheets/screen.css	/^#sidebar$/;"	i
+#sidebar + ul	app/assets/stylesheets/screen.css	/^#sidebar + ul$/;"	s
+#sidebar + ul li	app/assets/stylesheets/screen.css	/^#sidebar + ul li$/;"	s
+#sidebar + ul:after	app/assets/stylesheets/screen.css	/^#sidebar + ul:after$/;"	s
+#sidebar ul	app/assets/stylesheets/screen.css	/^#sidebar ul$/;"	s
+#sidebar ul a	app/assets/stylesheets/screen.css	/^#sidebar ul a$/;"	s
+.article_actions	app/assets/stylesheets/screen.css	/^.article_actions$/;"	c
+.article_actions a	app/assets/stylesheets/screen.css	/^.article_actions a$/;"	s
+.article_actions a:hover img	app/assets/stylesheets/screen.css	/^.article_actions a:hover img$/;"	s
+.article_actions a[data-method='delete']	app/assets/stylesheets/screen.css	/^.article_actions a[data-method='delete']$/;"	s
+.article_actions a[data-method='delete']	app/assets/stylesheets/screen.css	/^.article_actions a[href$='edit'],.article_actions a[data-method='delete']$/;"	s
+.article_actions a[data-method='delete']	app/assets/stylesheets/screen.css	/^.top-button,a.new_article,.article_actions a[href$='edit'],.article_actions a[data-method='delet/;"	s
+.article_actions a[data-method='delete'] :active	app/assets/stylesheets/screen.css	/^.top-button:active,a.new_article:active,.article_actions a[href$='edit']:active,.article_actions/;"	s
+.article_actions a[data-method='delete'] :hover	app/assets/stylesheets/screen.css	/^.top-button:hover,a.new_article:hover,.article_actions a[href$='edit']:hover,.article_actions a[/;"	s
+.article_actions a[href$='edit']	app/assets/stylesheets/screen.css	/^.article_actions a[href$='edit'],.article_actions a[data-method='delete']$/;"	s
+.article_actions a[href$='edit']	app/assets/stylesheets/screen.css	/^.top-button,a.new_article,.article_actions a[href$='edit'],.article_actions a[data-method='delet/;"	s
+.article_actions a[href$='edit'] :active	app/assets/stylesheets/screen.css	/^.top-button:active,a.new_article:active,.article_actions a[href$='edit']:active,.article_actions/;"	s
+.article_actions a[href$='edit'] :hover	app/assets/stylesheets/screen.css	/^.top-button:hover,a.new_article:hover,.article_actions a[href$='edit']:hover,.article_actions a[/;"	s
+.article_actions img	app/assets/stylesheets/screen.css	/^.article_actions img$/;"	s
+.comment	app/assets/stylesheets/screen.css	/^.comment$/;"	c
+.comment + .comment	app/assets/stylesheets/screen.css	/^.comment + .comment$/;"	c
+.comment + h3	app/assets/stylesheets/screen.css	/^.comment + h3,.comment + h4$/;"	s
+.comment + h4	app/assets/stylesheets/screen.css	/^.comment + h3,.comment + h4$/;"	s
+.comment p	app/assets/stylesheets/screen.css	/^.comment p$/;"	s
+.comment p:first-child	app/assets/stylesheets/screen.css	/^.comment p:first-child$/;"	s
+.comment:nth-last-of-type(1)	app/assets/stylesheets/screen.css	/^.comment:nth-last-of-type(1)$/;"	c
+.fancy-button-reset-base-class	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class,input[type=submit]$/;"	c
+.fancy-button-reset-base-class::-moz-focus-inner	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class::-moz-focus-inner,input[type=submit]::-moz-focus-inner$/;"	c
+.fancy-button-reset-base-class:focus	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class:focus,input[type=submit]:focus$/;"	c
+.headings	app/assets/stylesheets/screen.css	/^.headings,h1$/;"	c
+.input	app/assets/stylesheets/screen.css	/^.input,form input[type=text],form input[type=password],form textarea$/;"	c
+.input:focus	app/assets/stylesheets/screen.css	/^.input:focus,form input[type=text]:focus,form input[type=password]:focus,form textarea:focus$/;"	c
+.top-button	app/assets/stylesheets/screen.css	/^.top-button,a.new_article,.article_actions a[href$='edit'],.article_actions a[data-method='delet/;"	c
+.top-button:active	app/assets/stylesheets/screen.css	/^.top-button:active,a.new_article:active,.article_actions a[href$='edit']:active,.article_actions/;"	c
+.top-button:hover	app/assets/stylesheets/screen.css	/^.top-button:hover,a.new_article:hover,.article_actions a[href$='edit']:hover,.article_actions a[/;"	c
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	module:Blogger
+ApplicationCable	app/channels/application_cable/channel.rb	/^module ApplicationCable$/;"	m
+ApplicationCable	app/channels/application_cable/connection.rb	/^module ApplicationCable$/;"	m
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+ApplicationJob	app/jobs/application_job.rb	/^class ApplicationJob < ActiveJob::Base$/;"	c
+ApplicationMailer	app/mailers/application_mailer.rb	/^class ApplicationMailer < ActionMailer::Base$/;"	c
+ApplicationRecord	app/models/application_record.rb	/^class ApplicationRecord < ActiveRecord::Base$/;"	c
+ApplicationSystemTestCase	test/application_system_test_case.rb	/^class ApplicationSystemTestCase < ActionDispatch::SystemTestCase$/;"	c
+Article	app/models/article.rb	/^class Article < ApplicationRecord$/;"	c
+ArticleTest	test/models/article_test.rb	/^class ArticleTest < ActiveSupport::TestCase$/;"	c
+ArticlesController	app/controllers/articles_controller.rb	/^class ArticlesController < ApplicationController$/;"	c
+ArticlesControllerTest	test/controllers/articles_controller_test.rb	/^class ArticlesControllerTest < ActionDispatch::IntegrationTest$/;"	c
+ArticlesHelper	app/helpers/articles_helper.rb	/^module ArticlesHelper$/;"	m
+Blogger	config/application.rb	/^module Blogger$/;"	m
+Channel	app/channels/application_cable/channel.rb	/^  class Channel < ActionCable::Channel::Base$/;"	c	module:ApplicationCable
+Connection	app/channels/application_cable/connection.rb	/^  class Connection < ActionCable::Connection::Base$/;"	c	module:ApplicationCable
+CreateArticles	db/migrate/20180901212131_create_articles.rb	/^class CreateArticles < ActiveRecord::Migration[5.1]$/;"	c
+README	README.md	/^# README$/;"	c
+TestCase	test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c	module:ActiveSupport
+The change you wanted was rejected.	public/422.html	/^      <h1>The change you wanted was rejected.<\/h1>$/;"	h
+The page you were looking for doesn't exist.	public/404.html	/^      <h1>The page you were looking for doesn't exist.<\/h1>$/;"	h
+We're sorry, but something went wrong.	public/500.html	/^      <h1>We're sorry, but something went wrong.<\/h1>$/;"	h
+a	app/assets/stylesheets/screen.css	/^a$/;"	s
+a	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+a img	app/assets/stylesheets/screen.css	/^a img$/;"	s
+a.new_article	app/assets/stylesheets/screen.css	/^.top-button,a.new_article,.article_actions a[href$='edit'],.article_actions a[data-method='delet/;"	c
+a.new_article:active	app/assets/stylesheets/screen.css	/^.top-button:active,a.new_article:active,.article_actions a[href$='edit']:active,.article_actions/;"	c
+a.new_article:hover	app/assets/stylesheets/screen.css	/^.top-button:hover,a.new_article:hover,.article_actions a[href$='edit']:hover,.article_actions a[/;"	c
+a:hover	app/assets/stylesheets/screen.css	/^a:hover$/;"	s
+abbr	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+acronym	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+address	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+applet	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+article	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+aside	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+big	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+blockquote	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+blockquote	app/assets/stylesheets/screen.css	/^q,blockquote$/;"	s
+blockquote:after	app/assets/stylesheets/screen.css	/^q:before,q:after,blockquote:before,blockquote:after$/;"	s
+blockquote:before	app/assets/stylesheets/screen.css	/^q:before,q:after,blockquote:before,blockquote:after$/;"	s
+body	app/assets/stylesheets/screen.css	/^body$/;"	s
+body	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+body:after	app/assets/stylesheets/screen.css	/^body:after$/;"	s
+body:before	app/assets/stylesheets/screen.css	/^body:before$/;"	s
+canvas	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+caption	app/assets/stylesheets/screen.css	/^caption,th,td$/;"	s
+caption	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+change	db/migrate/20180901212131_create_articles.rb	/^  def change$/;"	f	class:CreateArticles
+cite	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+code	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+dd	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+default	config/database.yml	/^default: &default$/;"	a
+del	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+dependencies	package.json	/^  "dependencies": {}$/;"	o
+details	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+dfn	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+div	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+div.field_with_errors input	app/assets/stylesheets/screen.css	/^div.field_with_errors input$/;"	s
+div.field_with_errors label	app/assets/stylesheets/screen.css	/^div.field_with_errors label$/;"	s
+dl	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+dt	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+em	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+fieldset	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+figcaption	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+figure	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+font	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+footer	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+form	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+form input[type=password]	app/assets/stylesheets/screen.css	/^.input,form input[type=text],form input[type=password],form textarea$/;"	s
+form input[type=password]	app/assets/stylesheets/screen.css	/^form input[type=text], form input[type=password]$/;"	s
+form input[type=password] :focus	app/assets/stylesheets/screen.css	/^.input:focus,form input[type=text]:focus,form input[type=password]:focus,form textarea:focus$/;"	s
+form input[type=text]	app/assets/stylesheets/screen.css	/^.input,form input[type=text],form input[type=password],form textarea$/;"	s
+form input[type=text]	app/assets/stylesheets/screen.css	/^form input[type=text], form input[type=password]$/;"	s
+form input[type=text] :focus	app/assets/stylesheets/screen.css	/^.input:focus,form input[type=text]:focus,form input[type=password]:focus,form textarea:focus$/;"	s
+form label	app/assets/stylesheets/screen.css	/^form label$/;"	s
+form p	app/assets/stylesheets/screen.css	/^form p$/;"	s
+form textarea	app/assets/stylesheets/screen.css	/^.input,form input[type=text],form input[type=password],form textarea$/;"	s
+form textarea	app/assets/stylesheets/screen.css	/^form textarea$/;"	s
+form textarea:focus	app/assets/stylesheets/screen.css	/^.input:focus,form input[type=text]:focus,form input[type=password]:focus,form textarea:focus$/;"	s
+h1	app/assets/stylesheets/screen.css	/^.headings,h1$/;"	s
+h1	app/assets/stylesheets/screen.css	/^h1$/;"	s
+h1	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h1	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+h1:after	app/assets/stylesheets/screen.css	/^h1:after$/;"	s
+h2	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h2	app/assets/stylesheets/screen.css	/^h2,h3,h4$/;"	s
+h2	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+h3	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h3	app/assets/stylesheets/screen.css	/^h2,h3,h4$/;"	s
+h3	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+h4	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h4	app/assets/stylesheets/screen.css	/^h2,h3,h4$/;"	s
+h4	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+h5	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h5	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+h6	app/assets/stylesheets/screen.css	/^h1,h2,h3,h4,h5,h6$/;"	s
+h6	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+header	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+hgroup	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+html	app/assets/stylesheets/screen.css	/^html$/;"	s
+html	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+iframe	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+img	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+index	app/controllers/articles_controller.rb	/^	def index$/;"	f	class:ArticlesController
+input[type=submit]	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class,input[type=submit]$/;"	s
+input[type=submit]	app/assets/stylesheets/screen.css	/^input[type=submit]$/;"	s
+input[type=submit]	app/assets/stylesheets/screen.css	/^input[type=submit],input[type=submit]:visited$/;"	s
+input[type=submit] ::-moz-focus-inner	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class::-moz-focus-inner,input[type=submit]::-moz-focus-inner$/;"	s
+input[type=submit] :active	app/assets/stylesheets/screen.css	/^input[type=submit]:active$/;"	s
+input[type=submit] :active	app/assets/stylesheets/screen.css	/^input[type=submit]:active,input[type=submit]:active:visited$/;"	s
+input[type=submit] :active:visited	app/assets/stylesheets/screen.css	/^input[type=submit]:active,input[type=submit]:active:visited$/;"	s
+input[type=submit] :focus	app/assets/stylesheets/screen.css	/^.fancy-button-reset-base-class:focus,input[type=submit]:focus$/;"	s
+input[type=submit] :focus	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:focus$/;"	s
+input[type=submit] :focus	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:hover:visited,input[type=submit]:focus,input[type=su/;"	s
+input[type=submit] :focus:visited	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:hover:visited,input[type=submit]:focus,input[type=su/;"	s
+input[type=submit] :hover	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:focus$/;"	s
+input[type=submit] :hover	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:hover:visited,input[type=submit]:focus,input[type=su/;"	s
+input[type=submit] :hover:visited	app/assets/stylesheets/screen.css	/^input[type=submit]:hover,input[type=submit]:hover:visited,input[type=submit]:focus,input[type=su/;"	s
+input[type=submit] :visited	app/assets/stylesheets/screen.css	/^input[type=submit],input[type=submit]:visited$/;"	s
+ins	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+kbd	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+label	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+legend	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+li	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+menu	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+name	package.json	/^  "name": "blogger",$/;"	s
+nav	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+object	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+ol	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+ol	app/assets/stylesheets/screen.css	/^ol,ul$/;"	s
+p	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+p.flash	app/assets/stylesheets/screen.css	/^p.flash$/;"	c
+p.flash:empty	app/assets/stylesheets/screen.css	/^p.flash:empty$/;"	c
+p.tag_list	app/assets/stylesheets/screen.css	/^p.tag_list$/;"	c
+pre	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+private	package.json	/^  "private": true,$/;"	b
+q	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+q	app/assets/stylesheets/screen.css	/^q,blockquote$/;"	s
+q:after	app/assets/stylesheets/screen.css	/^q:before,q:after,blockquote:before,blockquote:after$/;"	s
+q:before	app/assets/stylesheets/screen.css	/^q:before,q:after,blockquote:before,blockquote:after$/;"	s
+s	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+samp	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+section	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+show	app/controllers/articles_controller.rb	/^	def show$/;"	f	class:ArticlesController
+small	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+span	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+strike	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+strong	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+sub	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+summary	app/assets/stylesheets/screen.css	/^article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary$/;"	s
+sup	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+system!	bin/setup	/^def system!(*args)$/;"	f
+system!	bin/update	/^def system!(*args)$/;"	f
+table	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+table	app/assets/stylesheets/screen.css	/^table$/;"	s
+tbody	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+td	app/assets/stylesheets/screen.css	/^caption,th,td$/;"	s
+td	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+tfoot	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+th	app/assets/stylesheets/screen.css	/^caption,th,td$/;"	s
+th	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+thead	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+tr	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+tt	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+ul	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
+ul	app/assets/stylesheets/screen.css	/^ol,ul$/;"	s
+var	app/assets/stylesheets/screen.css	/^html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,addres/;"	s
